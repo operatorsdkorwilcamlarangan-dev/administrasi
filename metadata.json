@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi Guru & Manajemen Sekolah Terpadu",
+  "description": "Aplikasi administrasi guru dan manajemen sekolah terpadu Kurikulum Merdeka dan Kurikulum Berbasis Cinta (KBC) dengan RBAC, Absensi, Nilai, Jurnal, dan Generator AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
